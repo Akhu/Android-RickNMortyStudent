@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ricknmorty</string>
+
+
+    <string name="title_placeholder">Title</string>
+    <string name="character_placeholder">News</string>
+    <string name="character_info_placeholder">Here is some news</string>
+    <string name="character_image">Sport image</string>
+    <string name="lorem_character_detail">Aliquam at dui felis. Fusce hendrerit tincidunt felis ac malesuada. Nam blandit orci sed augue auctor, in molestie nibh fringilla. Fusce eget est quis sapien tempus mollis. Phasellus faucibus mollis nisl a aliquet. Sed euismod neque sit amet dapibus bibendum. Sed scelerisque eros enim, a congue tellus volutpat aliquam. Mauris non mattis ante, nec tristique eros. Donec a diam ullamcorper, volutpat dolor vel, tempus tellus. Praesent cursus sem et est tristique posuere. In rhoncus lectus est, et ullamcorper est hendrerit nec.</string>
+    <string name="character">Character</string>
+    <string name="infos">Infos</string>
+    <string name="vivant_ou_mort">Vivant ou mort ?</string>
+</resources>
